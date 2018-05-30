@@ -1,0 +1,49 @@
+#accordionItem {
+    width: 100%;
+}
+
+#head1, #head2, #head3 {
+    background-color:gray;
+}
+
+section#ws1,section#ws2,section#ws3  {
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+div#ws1pic {
+    width: 50%;
+    height: 90%;
+    float: left;
+}
+
+div#ws1txt {
+    margin-left: 50%;
+    height: 90%;
+}
+
+#html1pic {
+    height: auto;
+    width: auto;
+    max-width: 50%;
+}
+
+#html2pic {
+    height: auto;
+    width: auto;
+    max-width: 50%;
+}
+
+#js1pic {
+    height: auto;
+    width: auto;
+    max-width: 50%;
+}
+
+
+
+.clearfix {
+    overflow: auto;
+}

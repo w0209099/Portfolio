@@ -1,0 +1,35 @@
+#contant{
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+   }
+
+#left{
+    width: 50%;
+    height: 99%;
+    float: left;
+}
+
+#right{
+    margin-left: 50%;
+    height: 99%;
+
+}
+
+h3 {
+    margin-left: 30%;
+    margin-right:30%;
+    text-align: center;
+
+}
+
+#ed {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#skills {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

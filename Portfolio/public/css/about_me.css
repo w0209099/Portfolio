@@ -1,0 +1,105 @@
+#contant{
+    width: 80%;
+    height: 90%;
+    margin: auto;
+}
+
+#left{
+    width: 50%;
+    height: 90%;
+    float: left;
+}
+
+#right{
+    margin-left: 50%;
+    height: 90%;
+}
+
+
+#me{
+    width: 90%;
+    margin: 2%;
+}
+
+#now{
+    width: 90%;
+    margin: 2%;
+}
+
+#going{
+    width: 90%;
+    margin: 2%;
+}
+
+#how{
+    width: 90%;
+    margin: 2%;
+}
+#likes{
+    width: 90%;
+    margin: 2%;
+}
+
+#pastime{
+    width: 90%;
+    margin: 2%;
+}
+
+#dislikes{
+    width: 90%;
+    margin: 2%;
+}
+
+@media all and (max-width: 1023px){
+
+    #contant{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+
+    #left{
+        width: 50%;
+        float: none;
+    }
+
+    #right{
+        width: 50%;
+        float: none;
+    }
+
+    #me{
+        width: 90%;
+        margin: 2%;
+    }
+
+    #now{
+        width: 90%;
+        margin: 2%;
+    }
+
+    #going{
+        width: 90%;
+        margin: 2%;
+    }
+
+    #how{
+        width: 90%;
+        margin: 2%;
+    }
+    #likes{
+        width: 90%;
+        margin: 2%;
+    }
+
+    #pastime{
+        width: 90%;
+        margin: 2%;
+    }
+
+    #dislikes{
+        width: 90%;
+        margin: 2%;
+    }
+
+}/*end 768 to 1023p */

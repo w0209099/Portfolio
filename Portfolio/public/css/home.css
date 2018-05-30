@@ -1,0 +1,42 @@
+#contant{
+    width: 80%;
+    height: 90%;
+    margin: auto;
+}
+
+#left{
+    width: 50%;
+    height: 99%;
+}
+
+#right{
+    margin-left: 50%;
+    height: 99%;
+}
+
+.homelink{
+    margin-left: 9%;
+}
+
+.welcome{
+    margin: 10%;
+    margin-right: 30%;
+}
+
+@media all and (max-width: 1023px){
+    #right{
+    visibility: hidden;
+    }
+
+    #left{
+        width: 100%;
+        align-content: right;
+        height: 99%;
+
+    }
+
+    .welcome{
+        align-content: center;
+    }
+
+}/*end 768 to 1023p */
