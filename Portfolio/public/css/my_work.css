@@ -8,7 +8,7 @@
 
 section#ws1,section#ws2,section#ws3  {
     width: 80%;
-    height: 500px;
+    /*height: 500px;*/
     margin: auto;
     padding: 10px;
 }
@@ -22,7 +22,7 @@ div#ws1left {
 div#ws1right {
     margin-left: 50%;
     height: 90%;
-    float: right;
+
 }
 
 div#ws2left {
@@ -34,7 +34,7 @@ div#ws2left {
 div#ws2right {
     margin-left: 50%;
     height: 90%;
-    float: right;
+
 }
 
 div#ws3left {
@@ -46,5 +46,5 @@ div#ws3left {
 div#ws3right {
     margin-left: 50%;
     height: 90%;
-    float: right;
+
 }
