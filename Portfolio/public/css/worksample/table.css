@@ -1,0 +1,25 @@
+table.schedule th{
+border: 1px solid gray;
+background-color: #60EAE5
+}
+
+table.schedule td {
+background-color: #E47575;
+text-align: center;
+}
+
+#Reservations{
+background-color: #909090;
+}
+
+#capacity{
+background-color: #66CCFF;
+}
+
+#empty{
+background-color: #339594;
+}
+
+#close{
+background-color: #909090;
+}

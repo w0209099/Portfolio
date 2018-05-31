@@ -35,6 +35,10 @@ Route::get('/CupCake', function () {
     return view('CupCake');
 });
 
+Route::get('/Center', function () {
+    return view('Center');
+});
+
 
 
 
