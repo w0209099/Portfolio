@@ -3,10 +3,10 @@
 @section('content')
 
     <section id = "contant" class ="clearfix">
-        <div id = "left">
+        <div id = "left" >
             <div id="me">
                 <h4>Who Am I</h4>
-                <p>My name is Andrew Schnurr. I am a web application developer who has recently finished the Web Develoment course at NSCC. </p>
+                <p>My name is Andrew Schnurr. I am a web application developer who is in the process of graduating the Web Develoment course at NSCC. </p>
             </div>
 
             <div id="now">

@@ -17,7 +17,7 @@
 
         <tr>
             <td>Social Media</td>
-            <td>Click<a href=""> Here </a>To see my Linkedin Page</td>
+            <td>Search Andrew Schnurr on Linkedin</td>
         </tr>
 
     </table>

@@ -31,6 +31,10 @@ Route::get('/Contact', function () {
     return view('Contact');
 });
 
+Route::get('/CupCake', function () {
+    return view('CupCake');
+});
+
 
 
 

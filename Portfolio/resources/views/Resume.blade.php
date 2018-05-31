@@ -38,6 +38,11 @@
             </ul>
         </div>
 
+
+        <br>
+        <br>
+        <p>Full Resume available upon request</p>
+
     </section>
 
 @endsection

@@ -13,37 +13,38 @@ section#ws1,section#ws2,section#ws3  {
     padding: 10px;
 }
 
-div#ws1pic {
+div#ws1left {
     width: 50%;
     height: 90%;
     float: left;
 }
 
-div#ws1txt {
+div#ws1right {
     margin-left: 50%;
     height: 90%;
+    float: right;
 }
 
-#html1pic {
-    height: auto;
-    width: auto;
-    max-width: 50%;
+div#ws2left {
+    width: 50%;
+    height: 90%;
+    float: left;
 }
 
-#html2pic {
-    height: auto;
-    width: auto;
-    max-width: 50%;
+div#ws2right {
+    margin-left: 50%;
+    height: 90%;
+    float: right;
 }
 
-#js1pic {
-    height: auto;
-    width: auto;
-    max-width: 50%;
+div#ws3left {
+    width: 50%;
+    height: 90%;
+    float: left;
 }
 
-
-
-.clearfix {
-    overflow: auto;
+div#ws3right {
+    margin-left: 50%;
+    height: 90%;
+    float: right;
 }
